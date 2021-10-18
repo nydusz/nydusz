@@ -18,7 +18,7 @@
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=博客&url=https://nydusz.gitee.io/)](https://nydusz.gitee.io/)
-[![](https://img.shields.io/website?color=25b864&style=flat-square&up_message=雨雀&url=https://www.yuque.com/grgmito)](https://www.yuque.com/grgmito)
+[![](https://img.shields.io/website?color=25b864&style=flat-square&up_message=语雀&url=https://www.yuque.com/grgmito)](https://www.yuque.com/grgmito)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
